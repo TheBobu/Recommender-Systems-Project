@@ -1,0 +1,1 @@
+python -m cf_model --data_folder ./data/ebnerd_demo
